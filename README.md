@@ -1,2 +1,2 @@
-# practice2
+# CI/CD Integration practice2
 Scandium
